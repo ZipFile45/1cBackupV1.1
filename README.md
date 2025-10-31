@@ -1,7 +1,4 @@
 [![Archiver_v2.0 Banner](https://github.com/ZipFile45/Archiver-v2.0/blob/main/docs/screenshots/banner.png?raw=true)](https://github.com/ZipFile45/Archiver-v2.0)
-# 🗂️ Archiver_v2.0
-
-Smart. Fast. Reliable file compression tool for Windows.
 
 # 🗂️ Архиватор v2.0
 
