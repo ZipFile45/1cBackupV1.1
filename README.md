@@ -1,18 +1,20 @@
+<!-- Banner -->
 [![Archiver_v2.0 Banner](https://raw.githubusercontent.com/ZipFile45/Archiver-v2.0/main/docs/screenshots/banner2.png)](https://github.com/ZipFile45/Archiver-v2.0)
 
+<h1 align="center">🗂️ Архиватор v2.0</h1>
 
-# 🗂️ Архиватор v2.0
+<p align="center">
+  <b>Простая и надёжная программа для автоматического резервного копирования файлов и баз данных</b><br>
+  <sub>Поддерживает Windows 10/11 и Windows Server 2012 R2+</sub>
+</p>
 
-![Windows](https://img.shields.io/badge/Windows-10%2F11%20%7C%20Server%202012%2B-blue?logo=windows&logoColor=white)
-![Version](https://img.shields.io/badge/Version-2.0-green)
-![License](https://img.shields.io/badge/License-Free-lightgrey)
-![Status](https://img.shields.io/badge/Build-Passing-success)
-![Lang](https://img.shields.io/badge/Language-Python-blueviolet)
-
----
-
-**Архиватор v2.0** — это простая и надёжная программа для автоматического резервного копирования файловых баз  и других важных данных.  
-Поддерживаются **Windows 10/11** и **Windows Server 2012 R2 и новее** (x86/x64).
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-10%2F11%20%7C%20Server%202012%2B-blue?logo=windows&logoColor=white" alt="Windows Support"/>
+  <img src="https://img.shields.io/badge/Version-2.0-green" alt="Version"/>
+  <img src="https://img.shields.io/badge/License-Free-lightgrey" alt="License"/>
+  <img src="https://img.shields.io/badge/Build-Passing-success" alt="Status"/>
+  <img src="https://img.shields.io/badge/Language-Python-blueviolet" alt="Language"/>
+</p>
 
 ---
 
