@@ -1,3 +1,5 @@
+![My Project Banner](https://github.com/ZipFile45/Archiver-v2.0/blob/main/docs/screenshots/banner.png?raw=true)
+
 # 🗂️ Архиватор v2.0
 
 ![Windows](https://img.shields.io/badge/Windows-10%2F11%20%7C%20Server%202012%2B-blue?logo=windows&logoColor=white)
